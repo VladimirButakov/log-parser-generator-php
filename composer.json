@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "psr-4": {
+            "TestProject\\": "",
+            "src\\": "src/"
+        }
+    },
+    "require": {
+    }
+}
